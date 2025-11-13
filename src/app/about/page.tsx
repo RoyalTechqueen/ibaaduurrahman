@@ -28,7 +28,7 @@ export default function AboutPage() {
           {/* Text */}
           <div className="md:w-1/2">
             <h1 className="text-4xl font-bold text-green-800 mb-4 leading-snug">
-              About Ibaadur Rahman Center for Qur’an Memorization
+              About Ibaadur Rahman Online Quran Academy
             </h1>
             <p className="leading-relaxed mb-4">
               <strong>Ibaadur Rahman</strong> is a faith-driven online Qur’an
