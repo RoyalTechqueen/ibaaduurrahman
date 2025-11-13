@@ -35,7 +35,7 @@ export default function HomePage() {
       {/* Right Side: Image */}
       <div className="flex-1 mt-10 md:mt-0 flex justify-center">
         <Image
-          src="/hero.png" // 👉 replace with your actual image in /public
+          src="/logo.jpg" // 👉 replace with your actual image in /public
           alt="Qur’an Learning"
           width={500}
           height={500}
