@@ -6,7 +6,7 @@ import Footer from "../components/footer";
 export default function ClassStructure() {
   const structures = [
     {
-      platform: "WhatsApp / Telegram",
+      platform: "WhatsApp",
       details: [
         {
           title: "30 Minutes – Twice a Week",
@@ -32,7 +32,7 @@ export default function ClassStructure() {
       note: "Conducted via audio calls, or video calls.",
     },
     {
-      platform: "Zoom / Google Meet",
+      platform: "Google Meet",
       details: [
         {
           title: "30 Minutes – Twice a Week",
@@ -64,7 +64,7 @@ export default function ClassStructure() {
       <Header />
 
       <main className="max-w-6xl mx-auto px-6 py-20">
-        <h1 className="text-4xl md:text-5xl font-bold text-green-800 text-center mb-8">
+        <h1 className="text-2xl md:text-5xl font-bold text-green-800 text-center mb-4 sm:mt-8 sm:text-xl">
           Class Structure & Platforms
         </h1>
 
